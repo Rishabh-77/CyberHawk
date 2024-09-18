@@ -51,4 +51,4 @@ document
     }
   });
 
-weather.fetchWeather("Pune");
+weather.fetchWeather("Hingna");
